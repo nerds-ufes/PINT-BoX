@@ -1,0 +1,4 @@
+[submodule "p7"]
+	path = p7
+	url = git@github.com:intrig-unicamp/p7.git
+	branch = polka
